@@ -2,7 +2,7 @@
 
 ## I'm a high school student and a developer
 - I’m currently learning React/React-Native
-- 2020 to half way 2021 Goals: Become a fullstack developer
+- 2020 to half way 2021 Goals: Become a fullstack developer (Currently on schedule)
 
 ## Connect with me:
   - Email: samokukata@gmail.com
